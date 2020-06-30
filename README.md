@@ -14,7 +14,7 @@ The features I will be creating on this project include:
 - Cohesive, easy to navigate, and beautiful layout
   - Use Sass exclusively for styling
 - Integrating Square to allow for taking payments, using the square API
-  - Set up sandbox credentials 
+  ~~- Set up sandbox credentials ~~
 - Edit images of artwork to present professional level display of what is available for purchase
 - Maintain thorough documentation throughout the project
 - Imbed Instagram and Twitter feed
