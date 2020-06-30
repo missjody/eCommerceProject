@@ -19,6 +19,7 @@ The features I will be creating on this project include:
 - Maintain thorough documentation throughout the project
 - Imbed Instagram and Twitter feed
 - Imbed Vimeo videos
+- Set up on a professionally, named domain
 
 ## Layout Concept
 
