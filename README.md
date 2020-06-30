@@ -13,13 +13,21 @@ The features I will be creating on this project include:
   - Utilize Trello
 - Cohesive, easy to navigate, and beautiful layout
   - Use Sass exclusively for styling
+  - Secure
 - Integrating Square to allow for taking payments, using the square API
   - ~~Set up sandbox credentials~~
+  - How to set up shipping estimation? 
+  - Set up profiles for future purchases? 
 - Edit images of artwork to present professional level display of what is available for purchase
 - Maintain thorough documentation throughout the project
 - Imbed Instagram and Twitter feed
 - Imbed Vimeo videos
 - Set up on a professionally, named domain
+
+## Stretch Goals
+
+- Option to collect email addresses to contact about sales/future projects
+- Dashboard for users showing previous purchases and special offers? 
 
 ## Layout Concept
 
@@ -41,7 +49,7 @@ This timeline will be updated more thoroughly by using Trello
 
 - [ ] Week One 6/6
   - [ ] Create color palette
-  - [ ] Link with Square
+  - [x] Link with Square
   - [ ] Work through Square tutorials
   - [ ] Work through Sass tutorials
   - [ ] Set up Trello for project 
