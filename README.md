@@ -10,14 +10,33 @@
 The features I will be creating on this project include: 
 
 - Program using Agile process
+  - Utilize Trello
 - Cohesive, easy to navigate, and beautiful layout
   - Use Sass exclusively for styling
 - Integrating Square to allow for taking payments, using the square API
   - Set up sandbox credentials 
 - Edit images of artwork to present professional level display of what is available for purchase
 - Maintain thorough documentation throughout the project
+- Imbed Instagram and Twitter feed
+- Imbed Vimeo videos
 
-## Timeline
+## Layout Concept
+
+- Splash page
+- Prints 
+- Zines and Comics
+- Animation
+- Web Development
+- Fiber Arts and Apparel
+- Contact info and links
+  - Imbeded feed of insta and twitter
+- Free comics/zines online
+
+Primarily white background, bold font, easy to read and navigate
+
+## Original Timeline
+
+This timeline will be updated more thoroughly by using Trello
 
 - [ ] Week One 6/6
   - [ ] Create color palette
