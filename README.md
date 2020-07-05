@@ -65,6 +65,13 @@ This timeline will be updated more thoroughly by using Trello
 - [ ] Week Four 6/27
   - [ ] Completion of tasks
   - [ ] Deploy site
+  
+  ## Week of July 6th
+  #### Monday: Color Palette and Adobe XD layouts 
+  #### Tuesday: Square Integration tutorials
+  #### Wednesdsay: Sass tutorials and Trello Set Up
+  #### Thursday: Set up pages based on mock ups
+  
 
   
 
