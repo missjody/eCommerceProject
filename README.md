@@ -47,22 +47,22 @@ Primarily white background, bold font, easy to read and navigate
 
 This timeline will be updated more thoroughly by using Trello
 
-- [ ] Week One 6/6
+- [ ] Week One 7/6
   - [ ] Create color palette
   - [x] Link with Square
   - [ ] Work through Square tutorials
   - [ ] Work through Sass tutorials
   - [x] Set up Trello for project 
-- [ ] Week Two 6/13
+- [ ] Week Two 7/13
   - [ ] Test with Square
   - [ ] Begin fleshing out website design skeleton
   - [ ] Gather photographs of artwork for sale
   - [ ] Create inventory of available artwork
-- [ ] Week Three 6/20
+- [ ] Week Three 7/20
   - [ ] Build out inventory integration with Square
   - [ ] Completion of design of overall site
   - [ ] Revisit Trello tasks and determine if anything needs to be added
-- [ ] Week Four 6/27
+- [ ] Week Four 7/27
   - [ ] Completion of tasks
   - [ ] Deploy site
   
