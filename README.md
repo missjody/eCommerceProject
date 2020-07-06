@@ -57,7 +57,7 @@ This timeline will be updated more thoroughly by using Trello
   - [ ] Test with Square
   - [ ] Begin fleshing out website design skeleton
   - [ ] Gather photographs of artwork for sale
-  - [ ] Create inventory of available artwork
+  - [x] Create inventory of available artwork
 - [ ] Week Three 7/20
   - [ ] Build out inventory integration with Square
   - [ ] Completion of design of overall site
