@@ -10,7 +10,7 @@
 The features I will be creating on this project include: 
 
 - Program using Agile process
-  - ~~Utilize Trello
+  - ~~Utilize Trello~~
 - Cohesive, easy to navigate, and beautiful layout
   - Use Sass exclusively for styling
   - Secure
