@@ -10,7 +10,7 @@
 The features I will be creating on this project include: 
 
 - Program using Agile process
-  - Utilize Trello
+  - ~~Utilize Trello
 - Cohesive, easy to navigate, and beautiful layout
   - Use Sass exclusively for styling
   - Secure
@@ -52,7 +52,7 @@ This timeline will be updated more thoroughly by using Trello
   - [x] Link with Square
   - [ ] Work through Square tutorials
   - [ ] Work through Sass tutorials
-  - [ ] Set up Trello for project 
+  - [x] Set up Trello for project 
 - [ ] Week Two 6/13
   - [ ] Test with Square
   - [ ] Begin fleshing out website design skeleton
