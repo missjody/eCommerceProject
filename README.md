@@ -53,6 +53,14 @@ After more thought on the matter I think it should be condenced down to: -- JDR 
 - Free comics/zines to read online
 - Page for outside links and imbeded insta/twitter/vimeo
 
+## Progress
+
+#### 7/9/2020
+
+* Completed mock ups of themes for splash page
+
+![images of splashpage/theme brainstorming](https://github.com/missjody/eCommerceProject/blob/master/themeBrainstorming.JPG)
+
 ## Timeline
 
 Timeline and goal updated on Trello, old Timeline will be dropped off in a week -- JDR 7/6
