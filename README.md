@@ -60,6 +60,6 @@ After more thought on the matter I think it should be condenced down to:
 
 #### 7/10
 
-Timeline and goal updated on Trello, old Timeline removed: [Link to Trello](https://trello.com/b/jNMs294S/ecommerce-project)
+Timeline and goals updated on Trello, old Timeline removed: [Link to Trello](https://trello.com/b/jNMs294S/ecommerce-project)
   
 
