@@ -33,18 +33,9 @@ Stretch Goals include:
 
 ## Layout Concept
 
-- Splash page
-- Prints 
-- Zines and Comics
-- Animation
-- Web Development
-- Fiber Arts and Apparel
-- Contact info and links
-  - Imbeded feed of insta and twitter
-- Free comics/zines online
-- Primarily white background, bold font, easy to read and navigate
+#### 7/6
 
-After more thought on the matter I think it should be condenced down to: -- JDR 7/6
+After more thought on the matter I think it should be condenced down to: 
 
 - Splash page
 - Art portfolio
@@ -55,37 +46,20 @@ After more thought on the matter I think it should be condenced down to: -- JDR 
 
 ## Progress
 
-#### 7/9/2020
+#### 7/9
 
 * Completed mock ups of themes for splash page
 
 ![images of splashpage/theme brainstorming](https://github.com/missjody/eCommerceProject/blob/master/themeBrainstorming.JPG)
 
+#### 7/10
+
+* I've decided to go with the vaporwave option. Gathering [concept images](https://www.pinterest.com/ladynajat/vaporwave-website-vision-board/) so I can complete the Adobe XD mockups this weekend
+
 ## Timeline
 
-Timeline and goal updated on Trello, old Timeline will be dropped off in a week -- JDR 7/6
+#### 7/10
 
-[Link to Trello](https://trello.com/b/jNMs294S/ecommerce-project)
-
-~~This timeline will be updated more thoroughly by using Trello~~
-
-~~- [ ] Week One 7/6~~
-  - ~~[ ] Create color palette~~
-  - ~~[x] Link with Square~~
-  - ~~[ ] Work through Square tutorials~~
-  - ~~[ ] Work through Sass tutorials~~
-  - ~~[x] Set up Trello for project ~~
-- ~~[ ] Week Two 7/13~~
-  - ~~[ ] Test with Square~~
-  - ~~[ ] Begin fleshing out website design skeleton~~
-  - ~~[ ] Gather photographs of artwork for sale~~
-  - ~~[x] Create inventory of available artwork~~
-- ~~[ ] Week Three 7/20~~
-  - ~~[ ] Build out inventory integration with Square~~
-  - ~~[ ] Completion of design of overall site~~
-  - ~~[ ] Revisit Trello tasks and determine if anything needs to be added~~
-- ~~[ ] Week Four 7/27~~
-  - ~~[ ] Completion of tasks~~
-  - ~~[ ] Deploy site~~
+Timeline and goal updated on Trello, old Timeline removed: [Link to Trello](https://trello.com/b/jNMs294S/ecommerce-project)
   
 
