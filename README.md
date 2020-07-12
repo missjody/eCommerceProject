@@ -63,7 +63,9 @@ While playing with XD determined layout should look more like:
 
 * Mockups of three pages on site:
 
-![homepage concept](https://github.com/missjody/eCommerceProject/blob/master/homepageconcept.JPG | width=50) ![artshop concept](https://github.com/missjody/eCommerceProject/blob/master/artshopconceptg.JPG | width=50) ![404](https://github.com/missjody/eCommerceProject/blob/master/404concept.JPG | width=50)
+![homepage concept](https://github.com/missjody/eCommerceProject/blob/master/homepageconcept.JPG){:height="50%" width="50%"}
+![artshop concept](https://github.com/missjody/eCommerceProject/blob/master/artshopconceptg.JPG){:height="50%" width="50%"}
+![404](https://github.com/missjody/eCommerceProject/blob/master/404concept.JPG){:height="50%" width="50%"}
 
 ## Timeline
 
