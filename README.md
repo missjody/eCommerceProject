@@ -33,16 +33,19 @@ Stretch Goals include:
 
 ## Layout Concept
 
-#### 7/6
+#### 7/12
 
-After more thought on the matter I think it should be condenced down to: 
+While playing with XD determined layout should look more like: 
 
 - Splash page
-- Art portfolio
+- Art portfolio/Shop
+  - Subpage to look closer at the one piece of art/option to add to cart
+  - Subpage for cart/checkout process
 - Programming portfolio
-- Online Shop
+  - Subpage for each project with links to the project
 - Free comics/zines to read online
-- Page for outside links and imbeded insta/twitter/vimeo
+  - Subpage for individual title
+- Contact page/outside links and imbeded insta/twitter/vimeo
 
 ## Progress
 
@@ -55,6 +58,14 @@ After more thought on the matter I think it should be condenced down to:
 #### 7/10
 
 * I've decided to go with the vaporwave option. Gathering [concept images](https://www.pinterest.com/ladynajat/vaporwave-website-vision-board/) so I can complete the Adobe XD mockups this weekend
+
+#### 7/12
+
+* Mockups of three pages on site:
+
+![homepage concept](https://github.com/missjody/eCommerceProject/blob/master/homepageconcept.JPG?raw=true) 
+![artshop concept](https://github.com/missjody/eCommerceProject/blob/master/artshopconceptg.JPG?raw=true)
+![404](https://github.com/missjody/eCommerceProject/blob/master/404concept.JPG?raw=true)
 
 ## Timeline
 
