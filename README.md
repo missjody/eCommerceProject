@@ -77,6 +77,7 @@ While playing with XD determined layout should look more like:
 ![first attempt at sun shape](https://github.com/missjody/eCommerceProject/blob/master/715cap2.JPG)
 
 * Thankfully, after ruminating on the issue all day at work on Thursday, I was able to sit down and model this much more successful sunset type sun shape.
+
 ![suntest gif](https://github.com/missjody/eCommerceProject/blob/master/sun.gif)
 
 
