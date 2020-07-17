@@ -67,6 +67,19 @@ While playing with XD determined layout should look more like:
 ![artshop concept](https://github.com/missjody/eCommerceProject/blob/master/artshopconceptg.JPG)
 ![404](https://github.com/missjody/eCommerceProject/blob/master/404concept.JPG)
 
+#### 7/16
+
+* Spent Monday setting up React App, Node.js on desktop, linking local repo to GitHub repo, and working through shortcuts using Microsoft Visual Studio. Have previously only worked with VS Code and with my laptop exclusively. 
+
+* Worked Wednesday to get a grasp on SVG paths and react-particles-js. When using their example deer image it produced a clean image, but my first attempts at svg paths did not work out as expected
+
+![using particles example image](https://github.com/missjody/eCommerceProject/blob/master/715cap1.JPG)
+![first attempt at sun shape](https://github.com/missjody/eCommerceProject/blob/master/715cap2.JPG)
+
+* Thankfully, after ruminating on the issue all day I was able to sit down and model this much more successful sunset type sun shape.
+![suntest gif](https://github.com/missjody/eCommerceProject/blob/master/sun.gif)
+
+
 ## Timeline
 
 #### 7/10
