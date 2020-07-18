@@ -69,7 +69,7 @@ While playing with XD determined layout should look more like:
 
 #### 7/16
 
-* Spent Monday setting up React App, Node.js on desktop, linking local repo to GitHub repo, and working through shortcuts using Microsoft Visual Studio. Have previously only worked with VS Code and with my laptop exclusively. 
+* Spent Monday setting up React App, Node.js on desktop, linking local repo to GitHub repo.
 
 * Worked Wednesday to get a grasp on SVG paths and react-particles-js. When using their example deer image it produced a clean image, but my first attempts at svg paths did not work out as expected
 
