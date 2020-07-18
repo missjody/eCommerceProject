@@ -1,96 +1,655 @@
-﻿import React from 'react';
+﻿import React, { Component } from 'react';
 //import logo from './logo.svg';
 import './App.css';
-import Particles from 'react-particles-js';
+import Particles from "react-tsparticles";
 
-function App() {
-  return (
-	  <div className="App">
+class App extends Component {
+	render() {
+		return (
+			<div className="App">
+
+				<Particles
+					id="tsparticles"
+					options={{
+						background: {
+							color: {
+								value: ""
+							},
+							image: "",
+							position: "",
+							repeat: "",
+							size: "",
+							opacity: 1
+						},
+						backgroundMask: {
+							cover: {
+								color: {
+									value: "#f6ff00"
+								},
+								opacity: 1
+							},
+							enable: false
+						},
+						detectRetina: false,
+						fpsLimit: 30,
+						infection: {
+							cure: false,
+							delay: 0,
+							enable: false,
+							infections: 0,
+							stages: []
+						},
+						interactivity: {
+							detectsOn: "canvas",
+							events: {
+								onClick: {
+									enable: false,
+									mode: "push"
+								},
+								onDiv: {
+									ids: "repulse-div",
+									enable: false,
+									mode: "repulse",
+									type: "circle"
+								},
+								onHover: {
+									enable: true,
+									mode: "bubble",
+									parallax: {
+										enable: false,
+										force: 2,
+										smooth: 10
+									}
+								},
+								resize: true
+							},
+							modes: {
+								attract: {
+									distance: 200,
+									duration: 0.4,
+									speed: 1
+								},
+								bubble: {
+									distance: 40,
+									duration: 2,
+									opacity: 8,
+									size: 6
+								},
+								connect: {
+									distance: 80,
+									links: {
+										opacity: 0.5
+									},
+									radius: 60
+								},
+								grab: {
+									distance: 400,
+									links: {
+										opacity: 1
+									}
+								},
+								push: {
+									quantity: 4
+								},
+								remove: {
+									quantity: 2
+								},
+								repulse: {
+									distance: 200,
+									duration: 0.4,
+									speed: 1
+								},
+								slow: {
+									factor: 1,
+									radius: 0
+								},
+								trail: {
+									delay: 1,
+									quantity: 1
+								}
+							}
+						},
+						particles: {
+							collisions: {
+								enable: false,
+								mode: "bounce"
+							},
+							color: {
+								value: "#f6ff00",
+								animation: {
+									enable: false,
+									speed: 1,
+									sync: true
+								}
+							},
+							links: {
+								blink: false,
+								color: {
+									value: "#f6ff00"
+								},
+								consent: false,
+								distance: 30,
+								enable: true,
+								opacity: 0.4,
+								shadow: {
+									blur: 5,
+									color: {
+										value: "#f6ff00"
+									},
+									enable: false
+								},
+								triangles: {
+									enable: false
+								},
+								width: 1,
+								warp: false
+							},
+							move: {
+								angle: 90,
+								attract: {
+									enable: false,
+									rotate: {
+										x: 600,
+										y: 1200
+									}
+								},
+								direction: "none",
+								enable: true,
+								noise: {
+									delay: {
+										random: {
+											enable: false,
+											minimumValue: 0
+										},
+										value: 0
+									},
+									enable: false
+								},
+								outMode: "bounce",
+								random: false,
+								speed: 1,
+								straight: false,
+								trail: {
+									enable: false,
+									length: 10,
+									fillColor: {
+										value: "#f6ff00"
+									}
+								},
+								vibrate: false,
+								warp: false
+							},
+							number: {
+								density: {
+									enable: false,
+									area: 2000,
+									factor: 1000
+								},
+								limit: 0,
+								value: 200
+							},
+							opacity: {
+								animation: {
+									enable: true,
+									minimumValue: 0.05,
+									speed: 2,
+									sync: false
+								},
+								random: {
+									enable: false,
+									minimumValue: 1
+								},
+								value: 0.4
+							},
+							rotate: {
+								animation: {
+									enable: false,
+									speed: 0,
+									sync: false
+								},
+								direction: "clockwise",
+								path: false,
+								random: false,
+								value: 0
+							},
+							shadow: {
+								blur: 0,
+								color: {
+									value: "#000000"
+								},
+								enable: false,
+								offset: {
+									x: 0,
+									y: 0
+								}
+							},
+							shape: {
+								options: {
+									character: {
+										fill: false,
+										font: "Verdana",
+										style: "",
+										value: "*",
+										weight: "400"
+									},
+									char: {
+										fill: false,
+										font: "Verdana",
+										style: "",
+										value: "*",
+										weight: "400"
+									},
+									polygon: {
+										sides: 5
+									},
+									star: {
+										sides: 5
+									},
+									image: {
+										height: 100,
+										replaceColor: true,
+										src: "/suntest.svg",
+										width: 100
+									},
+									images: {
+										height: 100,
+										replaceColor: true,
+										src: "/suntest.svg",
+										width: 100
+									}
+								},
+								type: "circle"
+							},
+							size: {
+								animation: {
+									destroy: "none",
+									enable: false,
+									minimumValue: 0.1,
+									speed: 40,
+									startValue: "max",
+									sync: false
+								},
+								random: {
+									enable: true,
+									minimumValue: 1
+								},
+								value: 1
+							},
+							stroke: {
+								width: 0,
+								color: {
+									value: "#000000",
+									animation: {
+										enable: false,
+										speed: 1,
+										sync: true
+									}
+								}
+							},
+							twinkle: {
+								lines: {
+									enable: false,
+									frequency: 0.05,
+									opacity: 1
+								},
+								particles: {
+									enable: false,
+									frequency: 0.05,
+									opacity: 1
+								}
+							}
+						},
+						pauseOnBlur: true,
+						polygon: {
+							draw: {
+								enable: true,
+								stroke: {
+									color: {
+										value: "rgba(255,255,255,0.2)"
+									},
+									width: 0.5,
+									opacity: 0.2
+								}
+							},
+							enable: true,
+							inline: {
+								arrangement: "equidistant"
+							},
+							move: {
+								radius: 10,
+								type: "path"
+							},
+							scale: 0.5,
+							type: "inline",
+							url: "/suntest.svg",
+						}
+					}}
+
+				/>
+
+				<Particles
+					id="tsparticles"
+					options={{
+						background: {
+							color: {
+								value: ""
+							},
+							image: "",
+							position: "",
+							repeat: "",
+							size: "",
+							opacity: 1
+						},
+						backgroundMask: {
+							cover: {
+								color: {
+									value: "#f6ff00"
+								},
+								opacity: 1
+							},
+							enable: false
+						},
+						detectRetina: false,
+						fpsLimit: 30,
+						infection: {
+							cure: false,
+							delay: 0,
+							enable: false,
+							infections: 0,
+							stages: []
+						},
+						interactivity: {
+							detectsOn: "canvas",
+							events: {
+								onClick: {
+									enable: false,
+									mode: "push"
+								},
+								onDiv: {
+									ids: "repulse-div",
+									enable: false,
+									mode: "repulse",
+									type: "circle"
+								},
+								onHover: {
+									enable: true,
+									mode: "bubble",
+									parallax: {
+										enable: false,
+										force: 2,
+										smooth: 10
+									}
+								},
+								resize: true
+							},
+							modes: {
+								attract: {
+									distance: 200,
+									duration: 0.4,
+									speed: 1
+								},
+								bubble: {
+									distance: 40,
+									duration: 2,
+									opacity: 8,
+									size: 6
+								},
+								connect: {
+									distance: 80,
+									links: {
+										opacity: 0.5
+									},
+									radius: 60
+								},
+								grab: {
+									distance: 400,
+									links: {
+										opacity: 1
+									}
+								},
+								push: {
+									quantity: 4
+								},
+								remove: {
+									quantity: 2
+								},
+								repulse: {
+									distance: 200,
+									duration: 0.4,
+									speed: 1
+								},
+								slow: {
+									factor: 1,
+									radius: 0
+								},
+								trail: {
+									delay: 1,
+									quantity: 1
+								}
+							}
+						},
+						particles: {
+							collisions: {
+								enable: false,
+								mode: "bounce"
+							},
+							color: {
+								value: "#f6ff00",
+								animation: {
+									enable: false,
+									speed: 1,
+									sync: true
+								}
+							},
+							links: {
+								blink: false,
+								color: {
+									value: "#f6ff00"
+								},
+								consent: false,
+								distance: 30,
+								enable: true,
+								opacity: 0.4,
+								shadow: {
+									blur: 5,
+									color: {
+										value: "#f6ff00"
+									},
+									enable: false
+								},
+								triangles: {
+									enable: false
+								},
+								width: 1,
+								warp: false
+							},
+							move: {
+								angle: 90,
+								attract: {
+									enable: false,
+									rotate: {
+										x: 600,
+										y: 1200
+									}
+								},
+								direction: "none",
+								enable: true,
+								noise: {
+									delay: {
+										random: {
+											enable: false,
+											minimumValue: 0
+										},
+										value: 0
+									},
+									enable: false
+								},
+								outMode: "bounce",
+								random: false,
+								speed: 1,
+								straight: false,
+								trail: {
+									enable: false,
+									length: 10,
+									fillColor: {
+										value: "#f6ff00"
+									}
+								},
+								vibrate: false,
+								warp: false
+							},
+							number: {
+								density: {
+									enable: false,
+									area: 2000,
+									factor: 1000
+								},
+								limit: 0,
+								value: 200
+							},
+							opacity: {
+								animation: {
+									enable: true,
+									minimumValue: 0.05,
+									speed: 2,
+									sync: false
+								},
+								random: {
+									enable: false,
+									minimumValue: 1
+								},
+								value: 0.4
+							},
+							rotate: {
+								animation: {
+									enable: false,
+									speed: 0,
+									sync: false
+								},
+								direction: "clockwise",
+								path: false,
+								random: false,
+								value: 0
+							},
+							shadow: {
+								blur: 0,
+								color: {
+									value: "#000000"
+								},
+								enable: false,
+								offset: {
+									x: 0,
+									y: 0
+								}
+							},
+							shape: {
+								options: {
+									character: {
+										fill: false,
+										font: "Verdana",
+										style: "",
+										value: "*",
+										weight: "400"
+									},
+									char: {
+										fill: false,
+										font: "Verdana",
+										style: "",
+										value: "*",
+										weight: "400"
+									},
+									polygon: {
+										sides: 5
+									},
+									star: {
+										sides: 5
+									},
+									image: {
+										height: 100,
+										replaceColor: true,
+										src: "/suntest.svg",
+										width: 100
+									},
+									images: {
+										height: 100,
+										replaceColor: true,
+										src: "/suntest.svg",
+										width: 100
+									}
+								},
+								type: "circle"
+							},
+							size: {
+								animation: {
+									destroy: "none",
+									enable: false,
+									minimumValue: 0.1,
+									speed: 40,
+									startValue: "max",
+									sync: false
+								},
+								random: {
+									enable: true,
+									minimumValue: 1
+								},
+								value: 1
+							},
+							stroke: {
+								width: 0,
+								color: {
+									value: "#000000",
+									animation: {
+										enable: false,
+										speed: 1,
+										sync: true
+									}
+								}
+							},
+							twinkle: {
+								lines: {
+									enable: false,
+									frequency: 0.05,
+									opacity: 1
+								},
+								particles: {
+									enable: false,
+									frequency: 0.05,
+									opacity: 1
+								}
+							}
+						},
+						pauseOnBlur: true,
+						polygon: {
+							draw: {
+								enable: true,
+								stroke: {
+									color: {
+										value: "rgba(255,255,255,0.2)"
+									},
+									width: 0.5,
+									opacity: 0.2
+								}
+							},
+							enable: true,
+							inline: {
+								arrangement: "equidistant"
+							},
+							move: {
+								radius: 10,
+								type: "path"
+							},
+							scale: 0.5,
+							type: "inline",
+							url: "/suntest.svg",
+						}
+					}}
+
+				/>
 
 
-		  <Particles
-			  params={{
-				  "color": "#D2691E",
-				  "shape": {
-					  "type": "circle",
-					  "stroke": {
-						  "width": 1,
-						  "color": "#D2691E"
-					  }
-                  },
-				  "fps_limit": 28,
-				  "particles": {
-					  "number": {
-						  "value": 200,
-						  "density": {
-							  "enable": false
-						  }
-					  },
-					  "line_linked": {
-						  "enable": true,
-						  "distance": 30,
-						  "opacity": 0.4
-					  },
-					  "move": {
-						  "speed": 1
-					  },
-					  "opacity": {
-						  "anim": {
-							  "enable": true,
-							  "opacity_min": 0.05,
-							  "speed": 2,
-							  "sync": false
-						  },
-						  "value": 0.7
-					  }
-				  },
-				  "line_linked": {
-					  "color": "#D2691E",
-					  "width": 2,
-					  "enable": true,
-					  "distance": 200,
-					  "opacity": 0.5
-                  },
-				  "polygon": {
-					  "enable": true,
-					  "scale": 0.5,
-					  "type": "inline",
-					  "move": {
-						  "radius": 10
-					  },
-					  "url": "/suntest.svg",
-					  "inline": {
-						  "arrangement": "equidistant"
-					  },
-					  "draw": {
-						  "enable": true,
-						  "stroke": {
-							  "color": "rgba(210,105,30, .2)"
-						  }
-					  }
-				  },
-				  "retina_detect": false,
-				  "interactivity": {
-					  "events": {
-						  "onhover": {
-							  "enable": true,
-							  "mode": "bubble"
-						  }
-					  },
-					  "modes": {
-						  "bubble": {
-							  "size": 6,
-							  "distance": 40
-						  }
-					  }
-				  }
-			  }} />
-		
-
-		 
-
-    </div>
-  );
+			</div>
+		);
+	}
 }
 
 export default App;
