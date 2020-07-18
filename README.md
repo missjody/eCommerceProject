@@ -80,6 +80,11 @@ While playing with XD determined layout should look more like:
 
 ![suntest gif](https://github.com/missjody/eCommerceProject/blob/master/sun.gif)
 
+#### 7/18
+
+* Per Matteo Bruni's suggestion to me on Twitter, I switched over to tsparticles and found that it was much easier to affect the color of the particles than what I was finding with react-particles-js
+
+![golden sun](https://github.com/missjody/eCommerceProject/blob/master/golden%20sun.gif)
 
 ## Timeline
 
