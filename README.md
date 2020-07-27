@@ -86,6 +86,10 @@ While playing with XD determined layout should look more like:
 
 ![golden sun](https://github.com/missjody/eCommerceProject/blob/master/golden%20sun.gif)
 
+#### Week of 7/19
+
+* Commission popped up, took up my time
+
 ## Timeline
 
 #### 7/10
