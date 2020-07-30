@@ -94,7 +94,7 @@ While playing with XD determined layout should look more like:
 
 * Finalized artwork and design for home page
 
-* Set up hosting and deployed a little baby 404. (cyclopsfairy.com)[https://cyclopsfairy.com/]
+* Set up hosting and deployed a little baby 404. [cyclopsfairy.com](https://cyclopsfairy.com/)
 
 ## Timeline
 
