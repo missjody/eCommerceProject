@@ -90,6 +90,10 @@ While playing with XD determined layout should look more like:
 
 * Commission popped up, took up my time
 
+#### 7/29
+
+* Finalized artwork and design for home page
+
 ## Timeline
 
 #### 7/10
